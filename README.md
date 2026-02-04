@@ -51,14 +51,20 @@ The goal of this project is to replicate the **look and feel** of the Maya – T
 ## 📸 Screenshots
 ### Home Page
 ![Home Page](screenshots/home.png)
-
+### Categories Page
 ![Menu Section](screenshots/menu.png)
-
+### About Us Page
 ![About Section](screenshots/about.png)
-
+### Courses
+![Courses](screenshots/courses.png)
+### More
 ![Testimonials](screenshots/testimonials.png)
-
+### Testimonials
+![Testimonials](screenshots/testimonials.png)
+### Contact
 ![Contact Page](screenshots/contact.png)
+### Partners
+![Contact Page](screenshots/collaborations.png)
 
 ---
 
