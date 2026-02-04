@@ -61,7 +61,19 @@ The goal of this project is to replicate the **look and feel** of the Maya – T
 2. Navigate into the project folder:
    cd maya-technical-hub-website-desktop-version
 3. Open maya__1.html in your browser.
-   
 
+📚 Learning Outcomes
+Structuring large-scale HTML layouts
+Writing maintainable CSS for complex pages
+Understanding real-world UI cloning
+Improving visual hierarchy and spacing
 
-Example:
+⚖️ License & Usage
+This project is intended only for educational purposes.
+All design inspiration belongs to Maya – Technical Hub.
+❌ Not for commercial use
+❌ Not affiliated with the official Technical Hub
+
+👤 Author
+GOROGODO TAKUNDA
+Frontend Practice Project
