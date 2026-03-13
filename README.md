@@ -52,7 +52,7 @@ The goal of this project is to replicate the **look and feel** of the Maya – T
 ### Home Page
 ![Home Page](screenshots/home.png)
 ### Categories Page
-![Menu Section](screenshots/menu.png)
+![Menu Section](screenshots.png)
 ### About Us Page
 ![About Section](screenshots/about.png)
 ### Courses
