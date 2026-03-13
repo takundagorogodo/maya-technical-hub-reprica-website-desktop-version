@@ -64,7 +64,7 @@ The goal of this project is to replicate the **look and feel** of the Maya – T
 ### Contact
 ![Contact Page](screenshots/more.png)
 ### Partners
-![Contact Page](screenshots/collaborations.png)
+![Contact Page](screenshots/collaboration.png)
 
 ---
 
